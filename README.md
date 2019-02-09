@@ -1,7 +1,7 @@
 # Proxy Gen Issues
 This is the official issue tracking portal for Glaxy Gen alias proxygen.app.
 
-Issue and Feature request tracking is now only maintained here all previous methods are not deprecated.
+Issue and Feature request tracking is now only maintained here all previous methods are now deprecated.
 
 # Creating a Bug Report / Feature Request 
 
